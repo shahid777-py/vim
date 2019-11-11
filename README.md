@@ -1,1 +1,1 @@
-# vim
+# vim just a vimrc
